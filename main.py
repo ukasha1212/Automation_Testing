@@ -1,7 +1,9 @@
 import os
 import shutil
+
 # Taking directory path as an input from user.
-directory = Input("Enter the directory path") 
+directory = input("Enter the directory path") 
+
 images = []
 count = 0
 
