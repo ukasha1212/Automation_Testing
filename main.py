@@ -1,7 +1,9 @@
 import os
 import shutil
 
-directory = "/Users/ukasha/Desktop/jib"
+# Taking directory path as an input from user.
+directory = input("Enter the directory path") 
+
 images = []
 count = 0
 
